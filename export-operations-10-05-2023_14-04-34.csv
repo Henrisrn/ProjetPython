@@ -1,0 +1,746 @@
+﻿dateOp;dateVal;label;category;categoryParent;supplierFound;amount;accountNum;accountLabel;accountBalance;comment;pointer
+09/05/2023;09/05/2023;"CARTE 06/05/23 COFIROUTE CB*8898";Péages;"Auto & Moto";cofiroute;-8,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/05/2023;09/05/2023;"CARTE 08/05/23 Amazon.fr*5F0SE2Z CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";amazon;-34,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/05/2023;09/05/2023;"CARTE 06/05/23 ESSO BEAUREGARD 4 CB*8898";Carburant;"Auto & Moto";esso;-47,66;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/05/2023;09/05/2023;"CARTE 06/05/23 CITY LOUVECIENNE2 CB*8898";Alimentation;"Vie quotidienne";"DELICES OPERA";-8,73;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/05/2023;09/05/2023;"CARTE 05/05/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/05/2023;09/05/2023;"CARTE 05/05/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/05/2023;09/05/2023;"CARTE 05/05/23 CGF17154PAUL1 4 CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";cgf;-11,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/05/2023;09/05/2023;"CARTE 04/05/23 HUNICK LA DEFENS CB*8898";"Vêtements et accessoires";"Vie quotidienne";"hunick la defens";-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/05/2023;09/05/2023;"CARTE 05/05/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-9,83;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/05/2023;05/05/2023;"CARTE 04/05/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/05/2023;05/05/2023;"CARTE 03/05/23 MCDONALDS 766 2 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"mc donald's";-24,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/05/2023;05/05/2023;"CARTE 03/05/23 CAFE LEFFE CB*8898";"Restaurants, bars, discothèques…";Loisirs;"cafe leffe";-12,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/05/2023;04/05/2023;"CARTE 03/05/23 CARREFOURMARKET CB*8898";Alimentation;"Vie quotidienne";carrefour;-100,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/05/2023;04/05/2023;"CARTE 03/05/23 CARREFMARKETDAC CB*8898";Carburant;"Auto & Moto";"carrefour dac";-17,76;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/05/2023;04/05/2023;"CARTE 02/05/23 RM 260000SC 4 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";rm;-2,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/05/2023;03/05/2023;"CARTE 02/05/23 SOLEIL D'OR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"soleil d or";-9,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/05/2023;03/05/2023;"CARTE 02/05/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/05/2023;02/05/2023;"CARTE 30/04/23 CARREFEXPRESSSCO CB*8898";Alimentation;"Vie quotidienne";carrefour;-39,63;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/05/2023;02/05/2023;"CARTE 27/04/23 FERU 2 CB*8898";"Non catégorisé";"Non catégorisé";"FERU            2529643";-5,89;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/04/2023;28/04/2023;"CARTE 27/04/23 NETTO CB*8898";Alimentation;"Vie quotidienne";netto;-24,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/04/2023;27/04/2023;"CARTE 26/04/23 IVS FRANCE CB*8898";Alimentation;"Vie quotidienne";ivs;-1,70;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/04/2023;26/04/2023;"CARTE 25/04/23 CAFE SEGUIN CB*8898";"Restaurants, bars, discothèques…";Loisirs;"cafe seguin";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/04/2023;26/04/2023;"CARTE 25/04/23 BIG FERNAND CB*8898";"Restaurants, bars, discothèques…";Loisirs;"big fernand";-31,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/04/2023;26/04/2023;"RETRAIT DAB 25/04/23 92NEUILLY S CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-20,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+25/04/2023;25/04/2023;"CARTE 24/04/23 LAURA TODD CB*8898";"Restaurants, bars, discothèques…";Loisirs;"laura todd";-5,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;24/04/2023;"CARTE 23/04/23 PDP 3009 CAUM SC CB*8898";Alimentation;"Vie quotidienne";"pomme de pain";-2,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;24/04/2023;"CARTE 22/04/23 ESSO BEAUREGARD 4 CB*8898";Carburant;"Auto & Moto";esso;-40,64;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;24/04/2023;"CARTE 22/04/23 KFC PARIS DEF 2 CB*8898";"Restaurants, bars, discothèques…";Loisirs;kfc;-16,74;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;24/04/2023;"CARTE 22/04/23 FNAC 2 CB*8898";"Electronique et informatique";"Vie quotidienne";fnac;-54,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;24/04/2023;"CARTE 22/04/23 CITY LOUVECIENNE2 CB*8898";Alimentation;"Vie quotidienne";"DELICES OPERA";-3,76;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;24/04/2023;"CARTE 22/04/23 STAT. PAYBYPHONE2 CB*8898";Carburant;"Auto & Moto";"station paybyphone";-7,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;24/04/2023;"CARTE 21/04/23 FERU 2 CB*8898";"Non catégorisé";"Non catégorisé";"FERU            2529643";-8,28;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;24/04/2023;"CARTE 22/04/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-1,05;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;24/04/2023;"VIR vodka";"Virements émis";"Virements émis";"virement vodka";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;24/04/2023;"CARTE 21/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/04/2023;23/04/2023;"VIR INST SERANO VICTOR";"Virements émis";"Virements émis";"serano victor";-50,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/04/2023;21/04/2023;"CARTE 20/04/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-1,49;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/04/2023;21/04/2023;"CARTE 20/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/04/2023;21/04/2023;"CARTE 20/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/04/2023;21/04/2023;"CARTE 19/04/23 CHATGPT SUBSCRIPT CB*8898";"Non catégorisé";"Non catégorisé";"CHATGPT SUBSCRIPTION";-21,98;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/04/2023;21/04/2023;"CARTE 19/04/23 CITY LOUVECIENNE2 CB*8898";Alimentation;"Vie quotidienne";"DELICES OPERA";-13,35;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/04/2023;20/04/2023;"CARTE 19/04/23 TOTAL 4 CB*8898";Carburant;"Auto & Moto";total;-40,56;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/04/2023;19/04/2023;"CARTE 17/04/23 CITY LOUVECIENNE2 CB*8898";Alimentation;"Vie quotidienne";"DELICES OPERA";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/04/2023;17/04/2023;"CARTE 14/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/04/2023;17/04/2023;"CARTE 15/04/23 AMZN Mktp FR*6V29 CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";amazon;-199,46;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/04/2023;17/04/2023;"CARTE 14/04/23 FAUB DE L'ARCHE CB*8898";Carburant;"Auto & Moto";"faub de l arche courbevoie";-9,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/04/2023;17/04/2023;"CARTE 13/04/23 CHIPOTLE MEXICAN CB*8898";"Restaurants, bars, discothèques…";Loisirs;chipotle;-24,55;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/04/2023;17/04/2023;"CARTE 13/04/23 HUNICK LA DEFENS CB*8898";"Vêtements et accessoires";"Vie quotidienne";"hunick la defens";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/04/2023;17/04/2023;"CARTE 15/04/23 CARREFOURMARKET CB*8898";Alimentation;"Vie quotidienne";carrefour;-118,81;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/04/2023;14/04/2023;"CARTE 13/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/04/2023;14/04/2023;"CARTE 12/04/23 HUNICK LA DEFENS CB*8898";"Vêtements et accessoires";"Vie quotidienne";"hunick la defens";-14,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/04/2023;14/04/2023;"CARTE 13/04/23 LA TABLE DES ART CB*8898";"Restaurants, bars, discothèques…";Loisirs;"la table des art";-6,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/04/2023;14/04/2023;"CARTE 13/04/23 HELLOASSO* BILLET CB*8898";"Dons et Cadeaux";"Cadeaux et solidarité";"helloasso billetterie";-27,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/04/2023;14/04/2023;"CARTE 13/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/04/2023;14/04/2023;"CARTE 13/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/04/2023;14/04/2023;"VIR Corner - Amazon";"Virements émis";"Virements émis";amazon;-100,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/04/2023;13/04/2023;"CARTE 12/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/04/2023;13/04/2023;"CARTE 12/04/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/04/2023;12/04/2023;"CARTE 11/04/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-0,79;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 09/04/23 AMZN Mktp FR*T66G CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";amazon;-37,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 07/04/23 CGF17154PAUL1 4 CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";cgf;-4,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 07/04/23 WALL STREET BAR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"wall street bar";-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 07/04/23 RM 260000SC 4 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";rm;-16,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 09/04/23 FRANPRIX CB*8898";Alimentation;"Vie quotidienne";franprix;-6,70;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 06/04/23 IDLVT CB*8898";"Non catégorisé";"Non catégorisé";IDLVT;-4,95;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 06/04/23 TOTAL 4 CB*8898";Carburant;"Auto & Moto";total;-30,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 05/04/23 TDJ PERE LACHAISE CB*8898";"Vêtements et accessoires";"Vie quotidienne";"tdj pere lachaise";-49,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 06/04/23 Ami Paris sas CB*8898";"Vêtements et accessoires";"Vie quotidienne";"ami paris";-180,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 05/04/23 HUNICK LA DEFENS CB*8898";"Vêtements et accessoires";"Vie quotidienne";"hunick la defens";-12,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 08/04/23 SC-CHICK STREET CB*8898";"Restaurants, bars, discothèques…";Loisirs;"sc chick street";-6,95;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 07/04/23 WALL STREET BAR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"wall street bar";-9,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"VIR Virement interne depuis BOURSORAMA";"Virements émis";"Virements émis";"virement interne depuis boursorama";-5,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 09/04/23 POTAGER MARKET CB*8898";Alimentation;"Vie quotidienne";"potager market";-4,09;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/04/2023;11/04/2023;"CARTE 08/04/23 INTERMARCHE CB*8898";Alimentation;"Vie quotidienne";intermarche;-7,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/04/2023;06/04/2023;"CARTE 05/04/23 LEVI'S CB*8898";"Vêtements et accessoires";"Vie quotidienne";levi's;-60,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/04/2023;06/04/2023;"CARTE 05/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/04/2023;06/04/2023;"CARTE 05/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/04/2023;05/04/2023;"CARTE 03/04/23 HUNICK LA DEFENS CB*8898";"Vêtements et accessoires";"Vie quotidienne";"hunick la defens";-14,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/04/2023;04/04/2023;"CARTE 03/04/23 AIRBNB * HMEATCQ9 CB*8898";"Hébergement (hôtels, camping…)";"Voyages & Transports";AIRBNB;-70,16;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/04/2023;04/04/2023;"CARTE 03/04/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/04/2023;04/04/2023;"CARTE 03/04/23 SNCF INTERNET CB*8898";"Transports longue distance (avions, trains…)";"Voyages & Transports";sncf;-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/04/2023;03/04/2023;"CARTE 01/04/23 UBER *EATS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"uber eats";-22,63;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/04/2023;03/04/2023;"CARTE 01/04/23 STAT ISSY PBP 2 CB*8898";Carburant;"Auto & Moto";"station issy pbp";-6,45;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/04/2023;03/04/2023;"CARTE 31/03/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-10,33;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/04/2023;03/04/2023;"CARTE 31/03/23 Smile&P*MLG event CB*8898";"Services financiers & professionnels";"Services financiers & professionnels";"smile et p mlg events";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/04/2023;03/04/2023;"CARTE 31/03/23 SUSHI CHATOU CB*8898";"Restaurants, bars, discothèques…";Loisirs;"sushi chatou";-38,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/04/2023;03/04/2023;"CARTE 30/03/23 CITY LOUVECIENNE2 CB*8898";Alimentation;"Vie quotidienne";"DELICES OPERA";-4,81;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/03/2023;31/03/2023;"CARTE 30/03/23 SC-HIDE PUB-CLU CB*8898";"Restaurants, bars, discothèques…";Loisirs;"sc hide pub clu";-6,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/03/2023;31/03/2023;"CARTE 30/03/23 STATBOULOGEPBP 2 CB*8898";"Dons et Cadeaux";"Cadeaux et solidarité";statboulogepbp;-4,15;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/03/2023;31/03/2023;"CARTE 30/03/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/03/2023;31/03/2023;"CARTE 30/03/23 CGF17154PAUL2 4 CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";cgf;-2,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/03/2023;31/03/2023;"CARTE 28/03/23 FRANPRIX 6203 CB*8898";Alimentation;"Vie quotidienne";franprix;-5,65;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/03/2023;31/03/2023;"CARTE 30/03/23 SC-HIDE PUB-CLU CB*8898";"Restaurants, bars, discothèques…";Loisirs;"sc hide pub clu";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/03/2023;31/03/2023;"CARTE 30/03/23 SC-HIDE PUB-CLU CB*8898";"Restaurants, bars, discothèques…";Loisirs;"sc hide pub clu";-15,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/03/2023;31/03/2023;"CARTE 30/03/23 SC-HIDE PUB-CLU CB*8898";"Restaurants, bars, discothèques…";Loisirs;"sc hide pub clu";-13,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/03/2023;30/03/2023;"CARTE 28/03/23 EVEREST CHATELET CB*8898";"Dépenses Jeux et paris";Loisirs;"everest chatelet";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/03/2023;30/03/2023;"CARTE 29/03/23 SUMUP *EAGLES DE CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"sumup eagles devinci";-1,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/03/2023;30/03/2023;"CARTE 28/03/23 EVEREST CHATELET CB*8898";"Dépenses Jeux et paris";Loisirs;"everest chatelet";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/03/2023;29/03/2023;"CARTE 28/03/23 IVS FRANCE CB*8898";Alimentation;"Vie quotidienne";ivs;-1,70;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/03/2023;29/03/2023;"CARTE 28/03/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/03/2023;29/03/2023;"CARTE 27/03/23 HUNICK LA DEFENS CB*8898";"Vêtements et accessoires";"Vie quotidienne";"hunick la defens";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/03/2023;29/03/2023;"CARTE 28/03/23 IVS FRANCE CB*8898";Alimentation;"Vie quotidienne";ivs;-1,70;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/03/2023;28/03/2023;"CARTE 27/03/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/03/2023;27/03/2023;"CARTE 25/03/23 HELLOASSO* BILLET CB*8898";"Dons et Cadeaux";"Cadeaux et solidarité";"helloasso billetterie";-15,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/03/2023;27/03/2023;"CARTE 24/03/23 ADA CB*8898";"Location de véhicules";"Voyages & Transports";ada;-2,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/03/2023;27/03/2023;"CARTE 24/03/23 ADA CB*8898";"Location de véhicules";"Voyages & Transports";ada;-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/03/2023;27/03/2023;"CARTE 24/03/23 LYFPAY CRITARDS R CB*8898";"Divertissement - culture (ciné, théâtre, concerts…)";Loisirs;"lyfpay critards rives de";-23,23;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/03/2023;27/03/2023;"CARTE 26/03/23 CARREFOUR CITY 2 CB*8898";Alimentation;"Vie quotidienne";carrefour;-9,38;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/03/2023;27/03/2023;"CARTE 25/03/23 Lydia*App CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";lydia;-5,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/03/2023;27/03/2023;"CARTE 24/03/23 HUNICK LA DEFENS CB*8898";"Vêtements et accessoires";"Vie quotidienne";"hunick la defens";-2,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/03/2023;27/03/2023;"CARTE 25/03/23 CITY LOUVECIENNE2 CB*8898";Alimentation;"Vie quotidienne";"DELICES OPERA";-25,42;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/03/2023;24/03/2023;"CARTE 23/03/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-4,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/03/2023;23/03/2023;"CARTE 22/03/23 SumUp *LeoWorkou CB*8898";"Non catégorisé";"Non catégorisé";"SumUp  *LeoWorkout";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/03/2023;23/03/2023;"CARTE 22/03/23 SumUp *Comedia d CB*8898";"Restaurants, bars, discothèques…";Loisirs;"sumup comedia da vin";-9,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/03/2023;22/03/2023;"CARTE 21/03/23 INTERMARCHE CB*8898";Alimentation;"Vie quotidienne";intermarche;-4,43;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/03/2023;21/03/2023;"CARTE 19/03/23 CHATGPT SUBSCRIPT CB*8898";"Non catégorisé";"Non catégorisé";"CHATGPT SUBSCRIPTION";-22,64;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/03/2023;21/03/2023;"CARTE 20/03/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/03/2023;20/03/2023;"CARTE 18/03/23 MSD CB*8898";Alimentation;"Vie quotidienne";msd;-7,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/03/2023;20/03/2023;"CARTE 18/03/23 HOTEL MONTE CRIST CB*8898";"Hébergement (hôtels, camping…)";"Voyages & Transports";"hotel monte cristo";-39,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/03/2023;20/03/2023;"CARTE 18/03/23 STATBOULOGEPBP 2 CB*8898";"Dons et Cadeaux";"Cadeaux et solidarité";statboulogepbp;-4,15;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/03/2023;20/03/2023;"CARTE 17/03/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-2,49;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/03/2023;20/03/2023;"CARTE 17/03/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/03/2023;20/03/2023;"CARTE 18/03/23 L'ANTIDOTE CB*8898";"Restaurants, bars, discothèques…";Loisirs;"l antidote";-18,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/03/2023;17/03/2023;"CARTE 16/03/23 AU PAS DE SAINT CB*8898";Alimentation;"Vie quotidienne";"au pas de saint cloud";-9,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/03/2023;17/03/2023;"CARTE 16/03/23 RIVER S KING 2 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"river s king";-17,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/03/2023;16/03/2023;"CARTE 14/03/23 K0028 4 CB*8898";"Non catégorisé";"Non catégorisé";"K0028           4819855";-8,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/03/2023;15/03/2023;"CARTE 14/03/23 OBYPAY* LE-HUB-LA CB*8898";"Vêtements et accessoires";"Vie quotidienne";"obypay le hub la defe";-14,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/03/2023;15/03/2023;"CARTE 14/03/23 OBYPAY* LE-HUB-LA CB*8898";"Vêtements et accessoires";"Vie quotidienne";"obypay le hub la defe";-23,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/03/2023;15/03/2023;"CARTE 14/03/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/03/2023;15/03/2023;"CARTE 14/03/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/03/2023;14/03/2023;"CARTE 13/03/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-5,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/03/2023;14/03/2023;"CARTE 12/03/23 TISSEO-REGIE AUT2 CB*8898";"Transports quotidiens (métro, bus…)";"Voyages & Transports";"tisseo regie au";-3,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/03/2023;14/03/2023;"CARTE 12/03/23 EL ALMACEN CB*8898";"Non catégorisé";"Non catégorisé";"EL ALMACEN";-4,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/03/2023;13/03/2023;"CARTE 10/03/23 LES PARADOUX 4 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"des paradoux";-7,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/03/2023;13/03/2023;"CARTE 10/03/23 BUFFALO GRIL SC 4 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"buffalo grill s";-2,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/03/2023;13/03/2023;"CARTE 10/03/23 SHELL 2528 CB*8898";Carburant;"Auto & Moto";shell;-1,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/03/2023;13/03/2023;"CARTE 12/03/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-5,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/03/2023;13/03/2023;"CARTE 10/03/23 HUNICK LA DEFENS CB*8898";"Vêtements et accessoires";"Vie quotidienne";"hunick la defens";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/03/2023;13/03/2023;"CARTE 11/03/23 Lydia*App CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";lydia;-35,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/03/2023;10/03/2023;"CARTE 09/03/23 INTERMARCHE CB*8898";Alimentation;"Vie quotidienne";intermarche;-4,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/03/2023;10/03/2023;"CARTE 09/03/23 ESSO BEAUREGARD 4 CB*8898";Carburant;"Auto & Moto";esso;-60,13;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/03/2023;09/03/2023;"CARTE 08/03/23 TOAST AND PIZZ CB*8898";"Restaurants, bars, discothèques…";Loisirs;"toast and pizz";-8,91;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/03/2023;09/03/2023;"CARTE 08/03/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-4,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/03/2023;09/03/2023;"CARTE 08/03/23 LW-HELLOASSO 4 CB*8898";"Dons et Cadeaux";"Cadeaux et solidarité";"lw helloasso";-30,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/03/2023;09/03/2023;"CARTE 08/03/23 CAFE SEGUIN CB*8898";"Restaurants, bars, discothèques…";Loisirs;"cafe seguin";-16,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/03/2023;09/03/2023;"PRLV SEPA PayPal (Europe) S.a r.l. et Ci";"Vie quotidienne";"Vie quotidienne";paypal;-3,49;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/03/2023;08/03/2023;"CARTE 07/03/23 CAFE SEGUIN CB*8898";"Restaurants, bars, discothèques…";Loisirs;"cafe seguin";-23,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/03/2023;08/03/2023;"CARTE 07/03/23 CASINO SHOP CB*8898";Alimentation;"Vie quotidienne";"casino shop";-1,38;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/03/2023;07/03/2023;"CARTE 05/03/23 AMAZON EU SARL 2 CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";amazon;-182,05;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/03/2023;06/03/2023;"CARTE 05/03/23 GALLY FEUCHEROL 4 CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";"gally feucherol";-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/03/2023;06/03/2023;"CARTE 04/03/23 HORETO PARIS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"horeto paris";-26,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/03/2023;06/03/2023;"CARTE 03/03/23 HUNICK LA DEFENS CB*8898";"Vêtements et accessoires";"Vie quotidienne";"hunick la defens";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/03/2023;06/03/2023;"CARTE 04/03/23 INTERMARCHE CB*8898";Alimentation;"Vie quotidienne";intermarche;-11,59;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/03/2023;06/03/2023;"CARTE 03/03/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/03/2023;06/03/2023;"CARTE 03/03/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/03/2023;06/03/2023;"CARTE 03/03/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/03/2023;06/03/2023;"CARTE 02/03/23 INDIGO 2 CB*8898";"Vêtements et accessoires";"Vie quotidienne";indigo;-8,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/03/2023;03/03/2023;"CARTE 02/03/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-11,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/03/2023;03/03/2023;"CARTE 01/03/23 HUNICK LA DEFENS CB*8898";"Vêtements et accessoires";"Vie quotidienne";"hunick la defens";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/03/2023;02/03/2023;"CARTE 01/03/23 NYX*BHPARTNERS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx bhpartners";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/03/2023;02/03/2023;"CARTE 01/03/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/03/2023;02/03/2023;"CARTE 01/03/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/02/2023;27/02/2023;"CARTE 26/02/23 AU BUREAU DOUAI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"au bureau";-38,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/02/2023;27/02/2023;"CARTE 24/02/23 LYDIA APP 4 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";sfmei;-55,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/02/2023;23/02/2023;"CARTE 20/02/23 INPA - MASADA NAT CB*8898";"Electronique et informatique";"Vie quotidienne";"inpa masada nation";-5,06;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/02/2023;23/02/2023;"CARTE 20/02/23 CAFFE BSTAT CB*8898";"Restaurants, bars, discothèques…";Loisirs;"caffe bcarburant";-3,73;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/02/2023;20/02/2023;"CARTE 16/02/23 LA VACHE FOLLE 2 CB*8898";"Vêtements et accessoires";"Vie quotidienne";sb2;-6,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/02/2023;20/02/2023;"CARTE 16/02/23 LA VACHE FOLLE 2 CB*8898";"Vêtements et accessoires";"Vie quotidienne";sb2;-8,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/02/2023;20/02/2023;"CARTE 17/02/23 TOTAL 4 CB*8898";Carburant;"Auto & Moto";total;-49,52;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/02/2023;20/02/2023;"CARTE 16/02/23 LA VACHE FOLLE 2 CB*8898";"Vêtements et accessoires";"Vie quotidienne";sb2;-8,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/02/2023;17/02/2023;"CARTE 16/02/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/02/2023;17/02/2023;"CARTE 16/02/23 IVS FRANCE CB*8898";Alimentation;"Vie quotidienne";ivs;-1,70;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/02/2023;17/02/2023;"CARTE 16/02/23 IVS FRANCE CB*8898";Alimentation;"Vie quotidienne";ivs;-1,70;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/02/2023;17/02/2023;"CARTE 16/02/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/02/2023;16/02/2023;"CARTE 15/02/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/02/2023;16/02/2023;"CARTE 15/02/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/02/2023;16/02/2023;"CARTE 14/02/23 KOKUBAN CB*8898";"Non catégorisé";"Non catégorisé";KOKUBAN;-41,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/02/2023;16/02/2023;"CARTE 14/02/23 UGC OPERA 2 CB*8898";"Divertissement - culture (ciné, théâtre, concerts…)";Loisirs;ugc;-5,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/02/2023;14/02/2023;"CARTE 13/02/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-6,44;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/02/2023;14/02/2023;"CARTE 13/02/23 Lydia*App CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";lydia;-49,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/02/2023;14/02/2023;"CARTE 13/02/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/02/2023;13/02/2023;"CARTE 12/02/23 FRANPRIX CB*8898";Alimentation;"Vie quotidienne";franprix;-1,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/02/2023;13/02/2023;"CARTE 11/02/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/02/2023;13/02/2023;"CARTE 11/02/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/02/2023;13/02/2023;"CARTE 10/02/23 AUBRAC CORNER CB*8898";"Restaurants, bars, discothèques…";Loisirs;"aubrac corner";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/02/2023;13/02/2023;"CARTE 10/02/23 AUBRAC CORNER CB*8898";"Restaurants, bars, discothèques…";Loisirs;"aubrac corner";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/02/2023;13/02/2023;"CARTE 10/02/23 AUBRAC CORNER CB*8898";"Restaurants, bars, discothèques…";Loisirs;"aubrac corner";-4,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/02/2023;13/02/2023;"CARTE 10/02/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/02/2023;13/02/2023;"CARTE 09/02/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-5,49;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/02/2023;10/02/2023;"CARTE 09/02/23 CHARLOTTEBAR CB*8898";"Restaurants, bars, discothèques…";Loisirs;charlottebar;-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/02/2023;10/02/2023;"CARTE 09/02/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/02/2023;10/02/2023;"CARTE 08/02/23 MIAMI CB*8898";"Restaurants, bars, discothèques…";Loisirs;miami;-8,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/02/2023;09/02/2023;"CARTE 08/02/23 CODE BAR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"code bar";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/02/2023;09/02/2023;"CARTE 08/02/23 CODE BAR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"code bar";-4,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/02/2023;07/02/2023;"CARTE 06/02/23 SNCF INTERNET CB*8898";"Transports longue distance (avions, trains…)";"Voyages & Transports";sncf;-55,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/02/2023;07/02/2023;"CARTE 06/02/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-17,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/02/2023;03/02/2023;"CARTE 01/02/23 STATION DE SKI LE CB*8898";"Club / association (sport, hobby, art…)";Loisirs;"station de ski";-63,67;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/02/2023;03/02/2023;"CARTE 30/01/23 WAL-MART SUPERCEN CB*8898";Alimentation;"Vie quotidienne";"wal mart";-2,06;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/01/2023;31/01/2023;"CARTE 30/01/23 SNCF INTERNET CB*8898";"Transports longue distance (avions, trains…)";"Voyages & Transports";sncf;-49,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/01/2023;31/01/2023;"CARTE 29/01/23 PRESSE CAFE QUEBE CB*8898";"Restaurants, bars, discothèques…";Loisirs;"presse cafe quebec";-16,94;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/01/2023;31/01/2023;"CARTE 30/01/23 SNCF INTERNET CB*8898";"Transports longue distance (avions, trains…)";"Voyages & Transports";sncf;-22,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/01/2023;30/01/2023;"CARTE 27/01/23 INTERCAR CB*8898";"Médecins et frais médicaux";Santé;interc;-75,15;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/01/2023;30/01/2023;"CARTE 26/01/23 MARCHE BIERE CB*8898";"Non catégorisé";"Non catégorisé";"MARCHE BIERE";-9,71;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/01/2023;30/01/2023;"CARTE 25/01/23 GAM BILLETTERIE CB*8898";"Non catégorisé";"Non catégorisé";"GAM BILLETTERIE";-88,59;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/01/2023;27/01/2023;"CARTE 25/01/23 SODA EPICERIE CB*8898";Alimentation;"Vie quotidienne";"soda epicerie";-33,64;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/01/2023;27/01/2023;"CARTE 25/01/23 RESTAURANT GREENS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"restaurant greenspot";-25,62;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/01/2023;27/01/2023;"CARTE 25/01/23 CAFE DES AMIS CHA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"cafe des amis chalet";-4,56;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/01/2023;27/01/2023;"CARTE 24/01/23 STM AEROPORT MTL CB*8898";"Transports longue distance (avions, trains…)";"Voyages & Transports";"stm aeroport mtl di";-29,29;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/01/2023;27/01/2023;"CARTE 25/01/23 BASILIQUE NOTRE-D CB*8898";"Animaux domestiques";"Vie quotidienne";"basilique notre dame";-17,93;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/01/2023;26/01/2023;"CARTE 24/01/23 POUTINEVILLE ONTA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"poutineville ontario";-29,78;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+25/01/2023;25/01/2023;"CARTE 24/01/23 BUY PARIS DUTY 4 CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"buy paris duty";-43,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/01/2023;23/01/2023;"CARTE 22/01/23 WOK-UP CB*8898";"Restaurants, bars, discothèques…";Loisirs;"wok up";-7,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/01/2023;23/01/2023;"CARTE 22/01/23 CASINO SHOP 4 CB*8898";Alimentation;"Vie quotidienne";"casino shop";-7,43;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/01/2023;23/01/2023;"RETRAIT DAB 20/01/23 NANTERRE CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-190,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/01/2023;23/01/2023;"CARTE 20/01/23 FIVE GUYS OPERA 4 CB*8898";Parking;"Auto & Moto";"five guys opera";-13,85;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/01/2023;23/01/2023;"CARTE 20/01/23 HARRY'S NY BAR 4 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"harry s harry s bar harry s new ";-61,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/01/2023;23/01/2023;"CARTE 20/01/23 STAT PBPHONEDSP 2 CB*8898";Carburant;"Auto & Moto";"station pbphonedsp";-5,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/01/2023;23/01/2023;"RETRAIT DAB 20/01/23 NANTERRE SE CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-300,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/01/2023;23/01/2023;"CARTE 21/01/23 AMAZON PAYMENTS 2 CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";amazon;-12,74;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/01/2023;23/01/2023;"CARTE 22/01/23 PDP 3550 FORUMSC CB*8898";Alimentation;"Vie quotidienne";"pomme de pain";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/01/2023;20/01/2023;"CARTE 19/01/23 BP BOUGIVAL 2 CB*8898";Carburant;"Auto & Moto";bp;-22,94;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/01/2023;20/01/2023;"CARTE 19/01/23 TOTAL 4 CB*8898";Carburant;"Auto & Moto";total;-56,51;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/01/2023;20/01/2023;"VIR SEPA Henri Serano";"Virements émis";"Virements émis";"virement henri serano";-15,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/01/2023;17/01/2023;"CARTE 16/01/23 AUCHAN 0005M CB*8898";Alimentation;"Vie quotidienne";auchan;-194,12;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/01/2023;17/01/2023;"CARTE 16/01/23 DAC AUCHAN CARBU CB*8898";Carburant;"Auto & Moto";"auchan dac";-53,28;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/01/2023;17/01/2023;"PRLV SEPA PayPal Europe S.a.r.l. et Cie";"Vie quotidienne";"Vie quotidienne";paypal;-49,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/01/2023;16/01/2023;"CARTE 14/01/23 GOSSIP CAFE 2 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"gossip cafe";-24,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/01/2023;16/01/2023;"CARTE 14/01/23 GOSSIP CAFE 2 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"gossip cafe";-30,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/01/2023;14/01/2023;"VIR INST SERANO HENRI";"Virements émis";"Virements émis";"serano henri";-500,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/01/2023;16/01/2023;"CARTE 15/01/23 IVS France 4 CB*8898";Alimentation;"Vie quotidienne";ivs;-1,70;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/01/2023;16/01/2023;"CARTE 14/01/23 LES FONTAINES CB*8898";"Restaurants, bars, discothèques…";Loisirs;"les fontaines";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/01/2023;16/01/2023;"CARTE 14/01/23 LES FONTAINES CB*8898";"Restaurants, bars, discothèques…";Loisirs;"les fontaines";-4,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/01/2023;16/01/2023;"CARTE 13/01/23 CYBERGAME CB*8898";"Non catégorisé";"Non catégorisé";CYBERGAME;-20,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/01/2023;13/01/2023;"CARTE 11/01/23 SEGEP 4 CB*8898";Alimentation;"Vie quotidienne";segep;-7,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/01/2023;13/01/2023;"CARTE 11/01/23 SEGEP 4 CB*8898";Alimentation;"Vie quotidienne";segep;-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/01/2023;13/01/2023;"CARTE 12/01/23 AIRBNB * HM38HHC2 CB*8898";"Hébergement (hôtels, camping…)";"Voyages & Transports";AIRBNB;-146,94;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/01/2023;13/01/2023;"CARTE 12/01/23 OBYPAY* LE-HUB-LA CB*8898";"Non catégorisé";"Non catégorisé";"OBYPAY* LE-HUB-LA-DEFE";-3,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/01/2023;13/01/2023;"CARTE 12/01/23 MONOPRIX 4 CB*8898";Alimentation;"Vie quotidienne";monoprix;-3,18;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/01/2023;12/01/2023;"CARTE 10/01/23 NIKI CLUB 2 CB*8898";"Non catégorisé";"Non catégorisé";"NIKI CLUB       2465004";-28,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/01/2023;12/01/2023;"CARTE 10/01/23 NIKI CLUB 2 CB*8898";"Non catégorisé";"Non catégorisé";"NIKI CLUB       2465004";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/01/2023;12/01/2023;"CARTE 11/01/23 LE WEEK-END CB*8898";"Restaurants, bars, discothèques…";Loisirs;"le week end";-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/01/2023;11/01/2023;"CARTE 10/01/23 Lydia*App CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";lydia;-15,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/01/2023;11/01/2023;"CARTE 10/01/23 TOTAL 4 CB*8898";Carburant;"Auto & Moto";total;-49,62;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/01/2023;11/01/2023;"CARTE 10/01/23 BISTRO DU FAUBOU CB*8898";"Restaurants, bars, discothèques…";Loisirs;"bistrot du faubou";-13,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/01/2023;11/01/2023;"CARTE 10/01/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/01/2023;09/01/2023;"CARTE 07/01/23 HA7L5 - SO/ PARIS CB*8898";"Non catégorisé";"Non catégorisé";"HA7L5 - SO/ PARIS";-54,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/01/2023;09/01/2023;"CARTE 06/01/23 NYX*Unattended-FR CB*8898";"Restaurants, bars, discothèques…";Loisirs;"nyx unattended fr";-0,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/01/2023;04/01/2023;"CARTE 02/01/23 AMAZON PAYMENTS 2 CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";amazon;-25,37;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/01/2023;03/01/2023;"CARTE 02/01/23 THE FROG & BRITI9 CB*8898";"Non catégorisé";"Non catégorisé";"THE FROG & BRITI9271665";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/01/2023;03/01/2023;"PRLV SEPA PayPal (Europe) S.a r.l. et Ci";"Vie quotidienne";"Vie quotidienne";paypal;-154,01;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/01/2023;02/01/2023;"CARTE 30/12/22 LW-HELLOASSO 4 CB*8898";"Dons et Cadeaux";"Cadeaux et solidarité";"lw helloasso";-40,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/01/2023;02/01/2023;"CARTE 30/12/22 CITESCIENCES-NET2 CB*8898";"Divertissement - culture (ciné, théâtre, concerts…)";Loisirs;"citesciences ne";-9,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/01/2023;02/01/2023;"CARTE 29/12/22 SAHARA & HEATHER CB*8898";"Restaurants, bars, discothèques…";Loisirs;"sahara et heather";-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/01/2023;02/01/2023;"CARTE 30/12/22 LIM*PRIX DU TRAJE CB*8898";"Etudes (formation, fournitures, cantines…)";"Education & Famille";"lim prix du trajet";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/01/2023;02/01/2023;"CARTE 30/12/22 LAtelier Octobre CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";"latelier octobre edit";-50,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/01/2023;02/01/2023;"CARTE 01/01/23 SeraPhotographie CB*8898";"Non catégorisé";"Non catégorisé";SeraPhotographie;-0,82;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/01/2023;02/01/2023;"CARTE 31/12/22 CITY LOUVECIENNE2 CB*8898";Alimentation;"Vie quotidienne";"DELICES OPERA";-6,49;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/12/2022;30/12/2022;"CARTE 28/12/22 SARL EL KHAYALI 2 CB*8898";Alimentation;"Vie quotidienne";"el khayali";-6,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/12/2022;30/12/2022;"CARTE 28/12/22 GS NIEL CB*8898";"Non catégorisé";"Non catégorisé";"GS NIEL";-9,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/12/2022;28/12/2022;"CARTE 27/12/22 le XV 4 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"le xv";-3,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/12/2022;28/12/2022;"CARTE 27/12/22 PRINTEMPS 4 CB*8898";"Vêtements et accessoires";"Vie quotidienne";printemps;-86,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/12/2022;27/12/2022;"CARTE 23/12/22 AMAZON PAYMENTS 2 CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";amazon;-5,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/12/2022;27/12/2022;"CARTE 23/12/22 BHV PARLY2 2 CB*8898";"Hébergement (hôtels, camping…)";"Voyages & Transports";"bazar de l hotel de villeparly2";-37,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/12/2022;27/12/2022;"CARTE 23/12/22 LYDIA APP 4 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"lydia app";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/12/2022;27/12/2022;"CARTE 22/12/22 2 CANDEIAS CB*8898";"Non catégorisé";"Non catégorisé";"2 CANDEIAS";-26,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/12/2022;23/12/2022;"PRLV SEPA PayPal (Europe) S.a r.l. et Ci";"Vie quotidienne";"Vie quotidienne";paypal;-12,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/12/2022;23/12/2022;"CARTE 22/12/22 Lydia*App CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";lydia;-3,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/12/2022;21/12/2022;"CARTE 20/12/22 STATTELPAYBYPHON2 CB*8898";"Restaurants, bars, discothèques…";Loisirs;stattelpaybyphon;-18,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/12/2022;21/12/2022;"CARTE 19/12/22 352230SC 4 CB*8898";"Non catégorisé";"Non catégorisé";"352230SC        4435567";-8,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/12/2022;20/12/2022;"VIR INST ROURE HUGO";"Virements émis";"Virements émis";"roure hugo";-102,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/12/2022;20/12/2022;"CARTE 19/12/22 NYA*Coffee Addres CB*8898";"Non catégorisé";"Non catégorisé";"NYA*Coffee Address";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/12/2022;20/12/2022;"CARTE 19/12/22 BOLT.EU/O/2212191 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu o";-13,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 17/12/22 BOLT.EU/O/2212170 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu o";-5,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 16/12/22 MAXIMA LV R653 CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";maxima;-13,96;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 17/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 17/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 18/12/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 18/12/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 18/12/22 Late Night Munchi CB*8898";"Restaurants, bars, discothèques…";Loisirs;"late night munchies izbr";-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 16/12/22 VALHALLA CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";valhalla;-4,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 17/12/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-6,96;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 16/12/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-10,36;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/12/2022;19/12/2022;"CARTE 17/12/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/12/2022;16/12/2022;"CARTE 15/12/22 VestiaireCollecti CB*8898";"Abonnements & téléphonie";"Abonnements & téléphonie";vestiairecollective;-93,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/12/2022;16/12/2022;"CARTE 15/12/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-5,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/12/2022;16/12/2022;"CARTE 16/12/22 BOLT.EU/O/2212160 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu o";-5,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/12/2022;15/12/2022;"CARTE 14/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/12/2022;15/12/2022;"CARTE 14/12/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-11,56;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/12/2022;15/12/2022;"CARTE 15/12/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/12/2022;15/12/2022;"CARTE 14/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-2,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/12/2022;14/12/2022;"CARTE 14/12/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,13;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/12/2022;14/12/2022;"CARTE 13/12/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/12/2022;14/12/2022;"CARTE 13/12/22 CADETS DE GASCOGN CB*8898";"Pharmacie et laboratoire";Santé;"cadets de gascogne caka";-2,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/12/2022;13/12/2022;"CARTE 12/12/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/12/2022;13/12/2022;"CARTE 12/12/22 CIRCLE K KALKU CB*8898";"Vêtements et accessoires";"Vie quotidienne";"circle k kalku";-4,45;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/12/2022;13/12/2022;"CARTE 12/12/22 CIRCLE K KALKU CB*8898";"Vêtements et accessoires";"Vie quotidienne";"circle k kalku";-2,55;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/12/2022;13/12/2022;"CARTE 12/12/22 RIMI HM OLYMPIA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-8,61;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 11/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-2,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 11/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 11/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 11/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 11/12/22 Thisplacedoesntne CB*8898";"Non catégorisé";"Non catégorisé";Thisplacedoesntneedaname-;-31,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 10/12/22 Lydia*App CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";lydia;-40,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 11/12/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 09/12/22 CAFE MILZKALNS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"cafe milzkalns";-11,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 09/12/22 https://www.cityb CB*8898";"Non catégorisé";"Non catégorisé";https://www.citybee.lv;-66,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 09/12/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-11,29;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 10/12/22 GAILEZERS, UZNEMS CB*8898";"Non catégorisé";"Non catégorisé";"GAILEZERS, UZNEMSANAS NOD";-93,39;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/12/2022;12/12/2022;"CARTE 09/12/22 LYDIA APP 4 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"lydia app";-41,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/12/2022;09/12/2022;"CARTE 08/12/22 CADETS DE GASCOGN CB*8898";"Pharmacie et laboratoire";Santé;"cadets de gascogne caka";-2,88;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/12/2022;09/12/2022;"CARTE 08/12/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-3,18;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/12/2022;08/12/2022;"CARTE 08/12/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/12/2022;08/12/2022;"CARTE 07/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-6,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/12/2022;07/12/2022;"CARTE 06/12/22 Izbraukuma tirdzn CB*8898";"Non catégorisé";"Non catégorisé";"Izbraukuma tirdznieciba";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/12/2022;07/12/2022;"CARTE 06/12/22 RIMI SM GALERIJA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi sm galerija centrs";-4,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/12/2022;07/12/2022;"CARTE 06/12/22 Mini TVM-Nr.58066 CB*8898";"Non catégorisé";"Non catégorisé";"Mini TVM-Nr.58066";-5,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/12/2022;07/12/2022;"CARTE 06/12/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-2,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/12/2022;07/12/2022;"CARTE 06/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/12/2022;06/12/2022;"CARTE 05/12/22 NYA*Coffee Addres CB*8898";"Non catégorisé";"Non catégorisé";"NYA*Coffee Address";-1,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/12/2022;06/12/2022;"CARTE 05/12/22 NYA*Coffee Addres CB*8898";"Non catégorisé";"Non catégorisé";"NYA*Coffee Address";-1,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/12/2022;06/12/2022;"CARTE 05/12/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/12/2022;06/12/2022;"RETRAIT DAB 05/12/22 HBLA072 CEN CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/12/2022;06/12/2022;"CARTE 05/12/22 www.pv.lv CB*8898";Loisirs;Loisirs;"pv lv";-1,43;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/12/2022;06/12/2022;"CARTE 05/12/22 www.pv.lv CB*8898";Loisirs;Loisirs;"pv lv";-1,43;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/12/2022;06/12/2022;"CARTE 05/12/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-17,39;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 03/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 04/12/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 03/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-5,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 04/12/22 RIONE CB*8898";"Non catégorisé";"Non catégorisé";RIONE;-11,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 03/12/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-7,38;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 04/12/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 03/12/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-6,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 04/12/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 03/12/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,13;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 02/12/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-14,48;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 02/12/22 www.pv.lv CB*8898";Loisirs;Loisirs;"pv lv";-1,89;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 02/12/22 www.pv.lv CB*8898";Loisirs;Loisirs;"pv lv";-1,51;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 04/12/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 04/12/22 CIRCLE K KALKU CB*8898";"Vêtements et accessoires";"Vie quotidienne";"circle k kalku";-5,85;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 04/12/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/12/2022;05/12/2022;"CARTE 03/12/22 SIA AMBER DISTRIB CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";sia;-12,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/12/2022;02/12/2022;"CARTE 01/12/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-4,45;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/12/2022;02/12/2022;"CARTE 30/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-9,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/12/2022;02/12/2022;"CARTE 01/12/22 CIRCLE K KALKU CB*8898";"Vêtements et accessoires";"Vie quotidienne";"circle k kalku";-5,85;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/12/2022;02/12/2022;"CARTE 01/12/22 CADETS DE GASCOGN CB*8898";"Pharmacie et laboratoire";Santé;"cadets de gascogne caka";-2,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/12/2022;02/12/2022;"CARTE 30/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-7,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/12/2022;02/12/2022;"CARTE 01/12/22 LYDIA APP 4 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"lydia app";-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/12/2022;02/12/2022;"CARTE 01/12/22 Google Photos CB*8898";"Vie quotidienne";"Vie quotidienne";google;-36,23;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/12/2022;02/12/2022;"CARTE 01/12/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-8,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+01/12/2022;01/12/2022;"CARTE 30/11/22 Google Photos CB*8898";"Vie quotidienne";"Vie quotidienne";google;-36,23;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+01/12/2022;01/12/2022;"CARTE 30/11/22 CADETS DE GASCOGN CB*8898";"Pharmacie et laboratoire";Santé;"cadets de gascogne caka";-2,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/11/2022;30/11/2022;"CARTE 28/11/22 BACKSTUBE NORDSTA CB*8898";"Non catégorisé";"Non catégorisé";"BACKSTUBE NORDSTAN";-12,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/11/2022;30/11/2022;"CARTE 29/11/22 LYDIA APP 4 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"lydia app";-3,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/11/2022;30/11/2022;"CARTE 29/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-3,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/11/2022;30/11/2022;"CARTE 28/11/22 ARLANDA EXPRESS/A CB*8898";Alimentation;"Vie quotidienne";"arlanda express automat";-13,84;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/11/2022;30/11/2022;"CARTE 27/11/22 TGI FRIDAYS KUNGS CB*8898";Contraventions;"Auto & Moto";"tgi fridays kungstradgard";-47,75;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/11/2022;30/11/2022;"CARTE 29/11/22 Tims Mints CB*8898";"Bien-être et soins (coiffeur, parfums…)";"Vie quotidienne";"tims mints";-9,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 27/11/22 BACKSTUBE NORDSTA CB*8898";"Non catégorisé";"Non catégorisé";"BACKSTUBE NORDSTAN";-1,76;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 27/11/22 BACKSTUBE NORDSTA CB*8898";"Non catégorisé";"Non catégorisé";"BACKSTUBE NORDSTAN";-1,67;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 27/11/22 BACKSTUBE NORDSTA CB*8898";"Non catégorisé";"Non catégorisé";"BACKSTUBE NORDSTAN";-3,25;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 27/11/22 ICA NARA BAN R CB*8898";Alimentation;"Vie quotidienne";"ica nara ban r";-11,48;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 27/11/22 VASAMUSEETS ENTRE CB*8898";"Restaurants, bars, discothèques…";Loisirs;"vasamuseets entre";-15,79;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 27/11/22 DJURGARDENS FARJE CB*8898";"Restaurants, bars, discothèques…";Loisirs;"djurgardens farjetrafik a";-9,66;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 26/11/22 FOTOGRAFISKA CB*8898";"Restaurants, bars, discothèques…";Loisirs;fotografiska;-11,61;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 26/11/22 DOWNTOWN CAMPER B CB*8898";"Vêtements et accessoires";"Vie quotidienne";"downtown camper by scandi";-30,65;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 27/11/22 Generator Hostels CB*8898";Alimentation;"Vie quotidienne";"generator hostels";-6,04;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 27/11/22 LIM*PRIX DU TRAJE CB*8898";"Etudes (formation, fournitures, cantines…)";"Education & Famille";"lim prix du trajet";-3,16;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 27/11/22 BOLT.EU/R/2211271 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-2,73;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"RETRAIT DAB 29/11/22 HBL A014 HB CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-325,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/11/2022;29/11/2022;"CARTE 28/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-1,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 26/11/22 ARLANDA EXPRESS/A CB*8898";Alimentation;"Vie quotidienne";"arlanda express automat";-13,84;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 26/11/22 GIFT SHOP CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";"gift shop";-18,11;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 26/11/22 Apoteket C W Sche CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";"apoteket cw scheele";-3,71;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 26/11/22 BOLT.EU/R/2211262 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-5,45;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 26/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-6,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 26/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 26/11/22 LYDIA APP 4 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"lydia app";-27,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 26/11/22 CAFFEINE NR.C026 CB*8898";"Non catégorisé";"Non catégorisé";"CAFFEINE NR.C026";-5,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 25/11/22 FNAC.COM 4 CB*8898";"Electronique et informatique";"Vie quotidienne";fnac;-69,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 26/11/22 BOLT.EU/O/2211261 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu o";-13,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 26/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 24/11/22 E9301 CB*8898";"Non catégorisé";"Non catégorisé";E9301;-1,49;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 25/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-13,73;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 25/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-7,65;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/11/2022;28/11/2022;"CARTE 24/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+25/11/2022;25/11/2022;"CARTE 24/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-1,39;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/11/2022;24/11/2022;"CARTE 23/11/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-10,88;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/11/2022;24/11/2022;"CARTE 22/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-6,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/11/2022;24/11/2022;"CARTE 22/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/11/2022;24/11/2022;"CARTE 22/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/11/2022;24/11/2022;"CARTE 22/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-2,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/11/2022;24/11/2022;"VIR Virement de Henri SERANO";"Virements émis";"Virements émis";"virement de henri serano";-8,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/11/2022;24/11/2022;"VIR Virement de Henri SERANO";"Virements émis";"Virements émis";"virement de henri serano";-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/11/2022;23/11/2022;"CARTE 22/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/11/2022;23/11/2022;"CARTE 22/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-7,88;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/11/2022;23/11/2022;"CARTE 22/11/22 RIMI HM OLYMPIA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-2,57;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/11/2022;23/11/2022;"CARTE 22/11/22 BALZAMBARS CB*8898";"Non catégorisé";"Non catégorisé";BALZAMBARS;-183,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/11/2022;22/11/2022;"CARTE 21/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-12,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/11/2022;22/11/2022;"CARTE 20/11/22 FNAC.COM 4 CB*8898";"Electronique et informatique";"Vie quotidienne";fnac;-19,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/11/2022;22/11/2022;"CARTE 21/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-2,05;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/11/2022;22/11/2022;"CARTE 21/11/22 MAXIMA LV R653 CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";maxima;-0,65;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/11/2022;22/11/2022;"CARTE 21/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-16,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/11/2022;21/11/2022;"CARTE 18/11/22 CIRCLE K KALKU CB*8898";"Vêtements et accessoires";"Vie quotidienne";"circle k kalku";-5,85;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/11/2022;21/11/2022;"CARTE 18/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/11/2022;21/11/2022;"CARTE 17/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/11/2022;21/11/2022;"CARTE 18/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-3,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/11/2022;21/11/2022;"CARTE 18/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-3,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/11/2022;21/11/2022;"CARTE 20/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-5,64;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/11/2022;21/11/2022;"CARTE 19/11/22 MEYER MENSWEAR CB*8898";"Non catégorisé";"Non catégorisé";"MEYER MENSWEAR";-34,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/11/2022;21/11/2022;"CARTE 19/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/11/2022;21/11/2022;"CARTE 19/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/11/2022;21/11/2022;"CARTE 19/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-7,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+18/11/2022;18/11/2022;"CARTE 17/11/22 HUMANA, KR. BARON CB*8898";"Restaurants, bars, discothèques…";Loisirs;"humana kr barona";-4,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+18/11/2022;18/11/2022;"CARTE 17/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,49;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+18/11/2022;18/11/2022;"CARTE 17/11/22 LIDO Atputas Cent CB*8898";"Non catégorisé";"Non catégorisé";"LIDO Atputas Centrs";-1,95;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+18/11/2022;18/11/2022;"CARTE 17/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-10,72;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+18/11/2022;18/11/2022;"CARTE 17/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,72;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/11/2022;17/11/2022;"CARTE 16/11/22 WWW.ADIJUMI.LV CB*8898";"Non catégorisé";"Non catégorisé";WWW.ADIJUMI.LV;-35,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/11/2022;17/11/2022;"CARTE 16/11/22 KNITTING SHOP CB*8898";"Non catégorisé";"Non catégorisé";"KNITTING SHOP";-14,73;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/11/2022;17/11/2022;"CARTE 15/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/11/2022;17/11/2022;"CARTE 16/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/11/2022;17/11/2022;"CARTE 16/11/22 STOCKMANN RIGA CB*8898";Alimentation;"Vie quotidienne";"stockmann riga";-34,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/11/2022;16/11/2022;"CARTE 14/11/22 MS* GENERATORSTOC CB*8898";"Non catégorisé";"Non catégorisé";"MS* GENERATORSTOCKHOL";-361,17;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/11/2022;16/11/2022;"CARTE 15/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-1,49;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/11/2022;16/11/2022;"CARTE 15/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-6,47;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/11/2022;16/11/2022;"CARTE 14/11/22 PHOKUS CB*8898";"Non catégorisé";"Non catégorisé";PHOKUS;-5,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/11/2022;16/11/2022;"CARTE 15/11/22 NYA*Coffee Addres CB*8898";"Non catégorisé";"Non catégorisé";"NYA*Coffee Address";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/11/2022;15/11/2022;"RETRAIT DAB 14/11/22 CITADELE070 CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-20,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/11/2022;15/11/2022;"CARTE 14/11/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/11/2022;15/11/2022;"CARTE 14/11/22 Opodo CB*8898";"Agences de voyages";"Voyages & Transports";opodo;-375,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+15/11/2022;15/11/2022;"CARTE 14/11/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-7,79;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 13/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-11,96;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 13/11/22 CIRCLE K KALKU CB*8898";"Vêtements et accessoires";"Vie quotidienne";"circle k kalku";-1,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 13/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-3,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 13/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 13/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-6,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 12/11/22 ridemobility.eu CB*8898";"Non catégorisé";"Non catégorisé";ridemobility.eu;-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 12/11/22 Kukotava CB*8898";"Non catégorisé";"Non catégorisé";Kukotava;-3,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 12/11/22 N02244 Meness apt CB*8898";"Non catégorisé";"Non catégorisé";"N02244 Meness aptieka 75";-15,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 12/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 13/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 12/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,36;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 12/11/22 BOLT.EU/D/2211121 CB*8898";"Non catégorisé";"Non catégorisé";BOLT.EU/D/2211121739;-8,71;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 11/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,81;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 11/11/22 Thisplacedoesntne CB*8898";"Non catégorisé";"Non catégorisé";Thisplacedoesntneedaname-;-27,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 11/11/22 Salons MyBeer CB*8898";"Non catégorisé";"Non catégorisé";"Salons MyBeer";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 11/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,81;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 10/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,26;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"VIR INST PONS ERWAN";"Virements émis";"Virements émis";"pons erwan";-20,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 10/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-5,33;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 10/11/22 RIMI HM OLYMPIA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-3,19;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 09/11/22 BARS CARTEL CB*8898";"Restaurants, bars, discothèques…";Loisirs;"bars cartel";-6,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 10/11/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 10/11/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 10/11/22 TVM-Brivibas 83 CB*8898";"Non catégorisé";"Non catégorisé";"TVM-Brivibas 83";-16,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/11/2022;14/11/2022;"CARTE 09/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/11/2022;10/11/2022;"CARTE 09/11/22 Tabakas nams-Valn CB*8898";"Restaurants, bars, discothèques…";Loisirs;"tabakas nams valnu";-18,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/11/2022;09/11/2022;"CARTE 08/11/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/11/2022;08/11/2022;"CARTE 07/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/11/2022;08/11/2022;"CARTE 07/11/22 Vito R CB*8898";"Non catégorisé";"Non catégorisé";"Vito R";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/11/2022;08/11/2022;"CARTE 07/11/22 Salons MyBeer CB*8898";"Non catégorisé";"Non catégorisé";"Salons MyBeer";-4,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/11/2022;08/11/2022;"CARTE 07/11/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-7,03;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/11/2022;08/11/2022;"CARTE 07/11/22 ROCKET BEAN CAFE CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rocket bean cafe dzirnavu";-10,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/11/2022;08/11/2022;"RETRAIT DAB 07/11/22 CITADELE070 CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/11/2022;08/11/2022;"CARTE 07/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,81;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/11/2022;07/11/2022;"CARTE 06/11/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-5,22;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/11/2022;07/11/2022;"CARTE 05/11/22 Thisplacedoesntne CB*8898";"Non catégorisé";"Non catégorisé";Thisplacedoesntneedaname-;-26,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/11/2022;07/11/2022;"CARTE 05/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/11/2022;07/11/2022;"CARTE 05/11/22 CIRCLE K KALKU CB*8898";"Vêtements et accessoires";"Vie quotidienne";"circle k kalku";-2,05;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/11/2022;07/11/2022;"CARTE 04/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/11/2022;07/11/2022;"CARTE 04/11/22 NARVESEN 1028 CB*8898";"Non catégorisé";"Non catégorisé";"NARVESEN 1028";-3,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/11/2022;07/11/2022;"CARTE 05/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,72;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/11/2022;07/11/2022;"CARTE 04/11/22 Latvijas 1. Rokka CB*8898";Alimentation;"Vie quotidienne";"latvijas 1 rokk lv riga";-4,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/11/2022;07/11/2022;"CARTE 03/11/22 Puce-Peldu CB*8898";"Non catégorisé";"Non catégorisé";Puce-Peldu;-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/11/2022;04/11/2022;"CARTE 04/11/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/11/2022;04/11/2022;"CARTE 03/11/22 RIMI SM GALERIJA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi sm galerija centrs";-11,35;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/11/2022;04/11/2022;"CARTE 03/11/22 Martina Bekereja- CB*8898";"Non catégorisé";"Non catégorisé";"Martina Bekereja-Valnu";-7,75;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/11/2022;04/11/2022;"CARTE 03/11/22 airBaltic.com CB*8898";Alimentation;"Vie quotidienne";"airbaltic com";-181,98;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/11/2022;03/11/2022;"RETRAIT DAB 02/11/22 CITADELE070 CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-20,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/11/2022;03/11/2022;"CARTE 02/11/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-5,21;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/11/2022;03/11/2022;"CARTE 01/11/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/11/2022;02/11/2022;"CARTE 31/10/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/11/2022;02/11/2022;"CARTE 31/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/11/2022;02/11/2022;"CARTE 31/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,13;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/11/2022;02/11/2022;"CARTE 02/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-3,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/11/2022;02/11/2022;"CARTE 01/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/11/2022;02/11/2022;"CARTE 01/11/22 BISTRO CB*8898";"Restaurants, bars, discothèques…";Loisirs;bistrot;-11,46;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/11/2022;02/11/2022;"CARTE 01/11/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"RETRAIT DAB 30/10/22 Matisa iela CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-260,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 30/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,54;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 29/10/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-3,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 29/10/22 www.pv.lv CB*8898";Loisirs;Loisirs;"pv lv";-4,29;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 29/10/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-3,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 30/10/22 BOLT.EU/R/2210301 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-12,82;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 30/10/22 BOLT.EU/R/2210300 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-50,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 29/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,81;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 29/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,26;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 29/10/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-1,05;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 28/10/22 RIGAS SKANU FABRI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rigas skanu fabrika bars";-15,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 28/10/22 RIGAS SKANU FABRI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rigas skanu fabrika bars";-15,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 29/10/22 BOLT.EU/R/2210291 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-11,46;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 28/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 28/10/22 RIGAS SKANU FABRI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rigas skanu fabrika bars";-12,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 28/10/22 F1 SPORTA KLUBS CB*8898";"Hébergement (hôtels, camping…)";"Voyages & Transports";"f1 sporta klubs";-35,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+31/10/2022;31/10/2022;"CARTE 28/10/22 BOLT.EU/R/2210281 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/10/2022;28/10/2022;"CARTE 27/10/22 RIMI HM OLYMPIA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-2,43;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/10/2022;28/10/2022;"CARTE 26/10/22 SIA AMBER DISTRIB CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";sia;-6,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/10/2022;28/10/2022;"CARTE 27/10/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-2,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/10/2022;28/10/2022;"CARTE 28/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/10/2022;26/10/2022;"CARTE 25/10/22 Funny Fox 2 CB*8898";"Non catégorisé";"Non catégorisé";"Funny Fox 2";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/10/2022;26/10/2022;"CARTE 25/10/22 RIMI HM OLYMPIA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-2,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+25/10/2022;25/10/2022;"CARTE 24/10/22 Galas paviljons v CB*8898";"Non catégorisé";"Non catégorisé";"Galas paviljons v. Nr.03/";-2,41;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+25/10/2022;25/10/2022;"CARTE 24/10/22 RAVEX LV CB*8898";"Non catégorisé";"Non catégorisé";"RAVEX LV";-21,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+25/10/2022;25/10/2022;"RETRAIT DAB 24/10/22 Matisa iela CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-20,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+25/10/2022;25/10/2022;"CARTE 23/10/22 Hesburger 48401 CB*8898";"Non catégorisé";"Non catégorisé";"Hesburger 48401  VPark UA";-5,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+25/10/2022;25/10/2022;"CARTE 23/10/22 Traku istorijos m CB*8898";"Restaurants, bars, discothèques…";Loisirs;"traku istorijos muziejus";-16,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+25/10/2022;25/10/2022;"CARTE 25/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+25/10/2022;25/10/2022;"CARTE 24/10/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-9,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/10/2022;24/10/2022;"CARTE 23/10/22 MAXIMA LT, X-885 CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";maxima;-3,73;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/10/2022;24/10/2022;"CARTE 23/10/22 IKI STOTIS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"iki stotis";-3,74;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/10/2022;24/10/2022;"CARTE 23/10/22 citybee.lt CB*8898";"Non catégorisé";"Non catégorisé";citybee.lt;-33,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/10/2022;24/10/2022;"CARTE 23/10/22 citybee.lt CB*8898";"Non catégorisé";"Non catégorisé";citybee.lt;-2,29;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/10/2022;24/10/2022;"CARTE 22/10/22 Pinavija bakery & CB*8898";"Restaurants, bars, discothèques…";Loisirs;"pinavija bakery et tearoom";-13,18;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/10/2022;24/10/2022;"CARTE 22/10/22 50190 LIDL GEDIMI CB*8898";Alimentation;"Vie quotidienne";lidl;-21,53;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/10/2022;21/10/2022;"CARTE 20/10/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/10/2022;21/10/2022;"CARTE 20/10/22 RIMI HM OLYMPIA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-3,38;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/10/2022;21/10/2022;"CARTE 20/10/22 ridemobility.eu CB*8898";"Non catégorisé";"Non catégorisé";ridemobility.eu;-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/10/2022;20/10/2022;"CARTE 19/10/22 GUSTAVBEKEREJA, M CB*8898";"Restaurants, bars, discothèques…";Loisirs;"gustavbekereja matisa ie";-3,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/10/2022;20/10/2022;"CARTE 19/10/22 BOLT.EU/R/2210191 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-11,13;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/10/2022;19/10/2022;"CARTE 18/10/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/10/2022;19/10/2022;"CARTE 18/10/22 BOLT.EU/R/2210182 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,16;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+18/10/2022;18/10/2022;"VIR Virement de Henri SERANO";"Virements émis";"Virements émis";"virement de henri serano";-62,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+18/10/2022;18/10/2022;"CARTE 17/10/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-9,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+18/10/2022;18/10/2022;"CARTE 17/10/22 SP ARCTIC MONKEYS CB*8898";"Non catégorisé";"Non catégorisé";"SP ARCTIC MONKEYS EU";-15,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 14/10/22 RIGAS SKANU FABRI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rigas skanu fabrika bars";-2,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 14/10/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-1,79;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 15/10/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 16/10/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-2,18;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 16/10/22 RIMI MATISA IELA CB*8898";Alimentation;"Vie quotidienne";"rimi matisa iela";-4,06;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 16/10/22 MAXIMA LV R653 CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";maxima;-1,94;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 14/10/22 N02244 Meness apt CB*8898";"Non catégorisé";"Non catégorisé";"N02244 Meness aptieka 75";-2,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 14/10/22 HIDEOUT KEBAB CAF CB*8898";"Restaurants, bars, discothèques…";Loisirs;"hideout kebab cafe";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 15/10/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"VIR Virement de Henri SERANO";"Virements émis";"Virements émis";"virement de henri serano";-4,55;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 15/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 15/10/22 JAUNOGRE-VEIKALS CB*8898";"Non catégorisé";"Non catégorisé";JAUNOGRE-VEIKALS;-1,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/10/2022;17/10/2022;"CARTE 15/10/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-7,11;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/10/2022;14/10/2022;"CARTE 14/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/10/2022;14/10/2022;"CARTE 13/10/22 RIMI HM OLYMPIA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-1,89;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/10/2022;14/10/2022;"CARTE 12/10/22 LA BELLE EPOYUET CB*8898";"Non catégorisé";"Non catégorisé";"LA BELLE EPOYUET";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/10/2022;14/10/2022;"CARTE 13/10/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/10/2022;14/10/2022;"CARTE 13/10/22 Salons MyBeer CB*8898";"Non catégorisé";"Non catégorisé";"Salons MyBeer";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/10/2022;14/10/2022;"CARTE 13/10/22 Salons MyBeer CB*8898";"Non catégorisé";"Non catégorisé";"Salons MyBeer";-4,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/10/2022;14/10/2022;"CARTE 12/10/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/10/2022;14/10/2022;"CARTE 12/10/22 Greenwood CB*8898";"Restaurants, bars, discothèques…";Loisirs;"green wood pasta";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/10/2022;13/10/2022;"CARTE 12/10/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-0,79;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/10/2022;13/10/2022;"CARTE 12/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/10/2022;12/10/2022;"CARTE 11/10/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/10/2022;12/10/2022;"CARTE 11/10/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-12,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/10/2022;12/10/2022;"CARTE 11/10/22 Galas paviljons v CB*8898";"Non catégorisé";"Non catégorisé";"Galas paviljons v. Nr.03/";-3,91;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/10/2022;11/10/2022;"CARTE 10/10/22 BOLT.EU/R/2210101 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-47,54;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/10/2022;11/10/2022;"CARTE 10/10/22 BOLT.EU/R/2210100 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-50,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+11/10/2022;11/10/2022;"CARTE 10/10/22 RIMI HM OLYMPIA CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-4,93;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/10/2022;10/10/2022;"CARTE 08/10/22 BEERHOUSE N1-KALK CB*8898";"Non catégorisé";"Non catégorisé";"BEERHOUSE N1-KALKU";-3,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/10/2022;10/10/2022;"CARTE 08/10/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-2,37;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/10/2022;10/10/2022;"CARTE 08/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,26;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/10/2022;10/10/2022;"CARTE 07/10/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-3,58;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/10/2022;10/10/2022;"CARTE 07/10/22 HIDEOUT KEBAB CAF CB*8898";"Restaurants, bars, discothèques…";Loisirs;"hideout kebab cafe";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/10/2022;10/10/2022;"CARTE 07/10/22 SIA AMBER DISTRIB CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";sia;-12,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/10/2022;10/10/2022;"CARTE 09/10/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-4,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/10/2022;10/10/2022;"CARTE 06/10/22 Nakts klubs Valkn CB*8898";"Non catégorisé";"Non catégorisé";"Nakts klubs Valknut";-3,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+10/10/2022;10/10/2022;"CARTE 08/10/22 Burger King Riga CB*8898";"Restaurants, bars, discothèques…";Loisirs;"burger king riga audeju";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/10/2022;07/10/2022;"CARTE 06/10/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/10/2022;07/10/2022;"CARTE 06/10/22 TVM-Brivibas 83   CB*8898";"Non catégorisé";"Non catégorisé";"TVM-Brivibas 83";-16,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/10/2022;07/10/2022;"CARTE 06/10/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,26;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/10/2022;06/10/2022;"CARTE 04/10/22 SIA AMBER DISTRIB CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";sia;-32,98;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/10/2022;06/10/2022;"CARTE 05/10/22 BOLT.EU/R/2210051 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-0,95;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/10/2022;05/10/2022;"RETRAIT DAB 04/10/22 CITADELE070 CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-30,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/10/2022;05/10/2022;"CARTE 04/10/22 NEU*Coffee Addres CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Coffee Address";-1,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/10/2022;05/10/2022;"CARTE 04/10/22 NEU*Coffee Addres CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Coffee Address";-1,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/10/2022;05/10/2022;"CARTE 04/10/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-6,75;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/10/2022;05/10/2022;"CARTE 04/10/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-1,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/10/2022;05/10/2022;"CARTE 04/10/22 RIMI HM OLYMPIA   CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-4,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/10/2022;04/10/2022;"RETRAIT DAB 03/10/22 Matisa iela CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-200,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/10/2022;04/10/2022;"RETRAIT DAB 03/10/22 Matisa iela CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-50,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+04/10/2022;04/10/2022;"CARTE 03/10/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"VIR INST LYDIA JULIEN";"Virements émis";"Virements émis";"lydia julien";-28,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"VIR INST HUERTAS KERIAN";"Virements émis";"Virements émis";"huertas kerian";-3,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 01/10/22 PULLA BAKERY      CB*8898";"Non catégorisé";"Non catégorisé";"PULLA BAKERY";-2,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 01/10/22 VANALINNA RIMI IS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"vanalinna rimi iseteenind";-2,29;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 01/10/22 Prisma Vanalinn 3 CB*8898";"Journaux, magazines…";"Abonnements & téléphonie";"prisma vanalinn";-15,27;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 01/10/22 Prisma Vanalinn 3 CB*8898";"Journaux, magazines…";"Abonnements & téléphonie";"prisma vanalinn";-1,18;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 30/09/22 MAIASMOKK KOHVIK  CB*8898";"Non catégorisé";"Non catégorisé";"MAIASMOKK KOHVIK";-12,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 30/09/22 III DRAAKON       CB*8898";"Non catégorisé";"Non catégorisé";"III DRAAKON";-15,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 30/09/22 GRUUV             CB*8898";"Non catégorisé";"Non catégorisé";GRUUV;-3,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 30/09/22 LW-HELLOASSO    4 CB*8898";"Dons et Cadeaux";"Cadeaux et solidarité";"lw helloasso";-20,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 02/10/22 La Boulangerie    CB*8898";Alimentation;"Vie quotidienne";"la boulangerie";-5,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 02/10/22 SV CRAFTS OU      CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"sv crafts ou";-18,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 02/10/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-13,40;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 02/10/22 CIRCLE K HAADEMEE CB*8898";"Vêtements et accessoires";"Vie quotidienne";"circle k haademeeste";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 02/10/22 LABOR BAAR        CB*8898";"Pharmacie et laboratoire";Santé;"laboratoire baar";-3,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 02/10/22 EUGENIO S GASTRON CB*8898";"Non catégorisé";"Non catégorisé";"EUGENIO S GASTRONOOMIA";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 01/10/22 EUGENIO S GASTRON CB*8898";"Non catégorisé";"Non catégorisé";"EUGENIO S GASTRONOOMIA";-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 01/10/22 TANAVA TOIT       CB*8898";"Non catégorisé";"Non catégorisé";"TANAVA TOIT";-2,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 30/09/22 LABOR BAAR        CB*8898";"Pharmacie et laboratoire";Santé;"laboratoire baar";-9,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 01/10/22 LABOR BAAR        CB*8898";"Pharmacie et laboratoire";Santé;"laboratoire baar";-9,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+03/10/2022;03/10/2022;"CARTE 01/10/22 CAFE CHOCOLATERIE CB*8898";"Restaurants, bars, discothèques…";Loisirs;"cafe chocolaterie";-4,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/09/2022;30/09/2022;"VIR Virement de Henri SERANO";"Virements émis";"Virements émis";"virement de henri serano";-8,70;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/09/2022;30/09/2022;"CARTE 28/09/22 Flixbus           CB*8898";"Transports longue distance (avions, trains…)";"Voyages & Transports";Flixbus;-230,26;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/09/2022;30/09/2022;"CARTE 29/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-5,44;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/09/2022;30/09/2022;"CARTE 29/09/22 MCDONALDS 9059098 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"mc donald's";-7,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/09/2022;30/09/2022;"CARTE 29/09/22 RIGAS SKANU FABRI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rigas skanu fabrika bars";-2,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/09/2022;30/09/2022;"CARTE 29/09/22 F1 SPORTA KLUBS   CB*8898";"Hébergement (hôtels, camping…)";"Voyages & Transports";"f1 sporta klubs";-35,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/09/2022;29/09/2022;"VIR INST KERIAN";"Virements émis";"Virements émis";kerian;-34,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+29/09/2022;29/09/2022;"CARTE 28/09/22 Zinc Old Town Hos CB*8898";Alimentation;"Vie quotidienne";"zinc old town hostel";-324,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/09/2022;28/09/2022;"CARTE 27/09/22 NEU*Kafijas Pasau CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Kafijas Pasaule";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/09/2022;28/09/2022;"CARTE 27/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-1,45;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+28/09/2022;28/09/2022;"VIR Virement de Henri SERANO";"Virements émis";"Virements émis";"virement de henri serano";-21,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/09/2022;27/09/2022;"CARTE 26/09/22 NEU*Coffee Addres CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Coffee Address";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/09/2022;27/09/2022;"CARTE 26/09/22 NARVESEN 1028     CB*8898";"Non catégorisé";"Non catégorisé";"NARVESEN 1028";-2,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/09/2022;27/09/2022;"CARTE 26/09/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-14,64;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/09/2022;27/09/2022;"CARTE 26/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-7,97;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+27/09/2022;27/09/2022;"CARTE 26/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-6,14;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 25/09/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 25/09/22 Burger King Riga CB*8898";"Restaurants, bars, discothèques…";Loisirs;"burger king riga audeju";-6,45;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 25/09/22 DROGAS 2024 CB*8898";"Non catégorisé";"Non catégorisé";"DROGAS 2024";-7,37;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 25/09/22 LA BELLE EPOYUET CB*8898";"Non catégorisé";"Non catégorisé";"LA BELLE EPOYUET";-3,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 25/09/22 Latvijas 1. Rokka CB*8898";Alimentation;"Vie quotidienne";"latvijas 1 rokk lv riga";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 25/09/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 24/09/22 MIA CB*8898";"Restaurants, bars, discothèques…";Loisirs;mia;-2,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 23/09/22 MAXIMA LV R653 CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";maxima;-9,45;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 23/09/22 VALHALLA CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";valhalla;-7,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 23/09/22 MCDONALDS 9059098 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"mc donald's";-5,25;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/09/2022;26/09/2022;"CARTE 22/09/22 SIA AMBER DISTRIB CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";sia;-32,48;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/09/2022;23/09/2022;"CARTE 22/09/22 NEU*Coffee Addres CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Coffee Address";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/09/2022;23/09/2022;"CARTE 22/09/22 NEU*Coffee Addres CB*8898";"Non catégorisé";"Non catégorisé";"NEU*Coffee Address";-1,10;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/09/2022;23/09/2022;"CARTE 20/09/22 RIGAS SKANU FABRI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rigas skanu fabrika bars";-15,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/09/2022;23/09/2022;"CARTE 22/09/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,62;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/09/2022;22/09/2022;"RETRAIT DAB 21/09/22 CITADELE070 CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/09/2022;22/09/2022;"CARTE 21/09/22 Burger King Riga  CB*8898";"Restaurants, bars, discothèques…";Loisirs;"burger king riga audeju";-9,45;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/09/2022;22/09/2022;"CARTE 21/09/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-9,07;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/09/2022;22/09/2022;"CARTE 21/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-3,84;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/09/2022;22/09/2022;"CARTE 21/09/22 Vieta galas pavil CB*8898";Alimentation;"Vie quotidienne";"vieta galas paviljona";-7,01;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/09/2022;22/09/2022;"CARTE 20/09/22 The Sinners bars  CB*8898";"Restaurants, bars, discothèques…";Loisirs;"the sinners bars terase";-6,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/09/2022;21/09/2022;"CARTE 20/09/22 Kafijas Pasaule   CB*8898";Alimentation;"Vie quotidienne";"kafijas pasaule";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+21/09/2022;21/09/2022;"CARTE 20/09/22 Coffee Address    CB*8898";"Restaurants, bars, discothèques…";Loisirs;"coffee address";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/09/2022;20/09/2022;"CARTE 19/09/22 Kafijas Pasaule   CB*8898";Alimentation;"Vie quotidienne";"kafijas pasaule";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/09/2022;20/09/2022;"CARTE 19/09/22 www.pv.lv         CB*8898";Loisirs;Loisirs;"pv lv";-1,89;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/09/2022;20/09/2022;"CARTE 19/09/22 www.pv.lv         CB*8898";Loisirs;Loisirs;"pv lv";-1,89;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/09/2022;20/09/2022;"CARTE 19/09/22 Silva-tejas namin CB*8898";"Animaux domestiques";"Vie quotidienne";"silva tejas namins";-10,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+20/09/2022;20/09/2022;"CARTE 19/09/22 BOLT.EU/R/2209191 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-0,96;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/09/2022;19/09/2022;"CARTE 18/09/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/09/2022;19/09/2022;"CARTE 16/09/22 Maverick          CB*8898";"Equipements sportifs et artistiques";"Vie quotidienne";maverick;-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/09/2022;19/09/2022;"CARTE 17/09/22 Latvijas 1. Rokka CB*8898";Alimentation;"Vie quotidienne";"latvijas 1 rokk lv riga";-4,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/09/2022;19/09/2022;"CARTE 15/09/22 Burger King Riga  CB*8898";"Restaurants, bars, discothèques…";Loisirs;"burger king riga audeju";-10,95;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/09/2022;19/09/2022;"CARTE 18/09/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-0,90;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/09/2022;19/09/2022;"CARTE 16/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-2,78;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/09/2022;19/09/2022;"CARTE 18/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-8,91;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/09/2022;19/09/2022;"CARTE 17/09/22 Latvijas 1. Rokka CB*8898";Alimentation;"Vie quotidienne";"latvijas 1 rokk lv riga";-14,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/09/2022;19/09/2022;"CARTE 17/09/22 Latvijas 1. Rokka CB*8898";Alimentation;"Vie quotidienne";"latvijas 1 rokk lv riga";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+19/09/2022;19/09/2022;"CARTE 16/09/22 Maverick          CB*8898";"Equipements sportifs et artistiques";"Vie quotidienne";maverick;-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/09/2022;16/09/2022;"CARTE 15/09/22 RIMI HM OLYMPIA   CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-0,85;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+16/09/2022;16/09/2022;"CARTE 15/09/22 The Sinners Club  CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";"the sinners club";-3,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/09/2022;14/09/2022;"CARTE 13/09/22 Kafijas Pasaule   CB*8898";Alimentation;"Vie quotidienne";"kafijas pasaule";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/09/2022;14/09/2022;"CARTE 13/09/22 Coffee Address    CB*8898";"Restaurants, bars, discothèques…";Loisirs;"coffee address";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+14/09/2022;14/09/2022;"CARTE 13/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-7,47;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/09/2022;13/09/2022;"CARTE 12/09/22 RIMI HM OLYMPIA   CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi hm olympia";-3,84;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/09/2022;13/09/2022;"CARTE 12/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-3,78;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+13/09/2022;13/09/2022;"CARTE 12/09/22 www.pv.lv         CB*8898";Loisirs;Loisirs;"pv lv";-1,89;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"RETRAIT DAB 09/09/22 HBLA044 AUT CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-50,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 10/09/22 BARS CARTEL-TERAS CB*8898";"Restaurants, bars, discothèques…";Loisirs;"bars cartel terase";-5,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 11/09/22 Double Coffee-Val CB*8898";"Restaurants, bars, discothèques…";Loisirs;"double coffee valnu";-4,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 09/09/22 Mardis galas pav. CB*8898";"Non catégorisé";"Non catégorisé";"Mardis galas pav.";-5,25;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 10/09/22 Restorans ""Rigens CB*8898";Alimentation;"Vie quotidienne";"restorans rigensis";-12,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 11/09/22 Latvijas 1. Rokka CB*8898";Alimentation;"Vie quotidienne";"latvijas 1 rokk lv riga";-2,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 10/09/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,08;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 10/09/22 RIMI MATISA IELA  CB*8898";Alimentation;"Vie quotidienne";"rimi matisa iela";-15,14;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 10/09/22 MAXIMA LV R653    CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";maxima;-2,39;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 10/09/22 BOLT.EU/R/2209101 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,62;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 08/09/22 RIGAS SKANU FABRI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rigas skanu fabrika bars";-3,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 08/09/22 RIGAS SKANU FABRI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rigas skanu fabrika bars";-15,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 08/09/22 RIGAS SKANU FABRI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rigas skanu fabrika bars";-25,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"RETRAIT DAB 10/09/22 WLLN0521-MA CB*8898";"Retraits cash";"Retraits cash";"Retrait automate";-100,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/09/2022;12/09/2022;"CARTE 09/09/22 RIMI SM GALERIJA  CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi sm galerija centrs";-7,59;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/09/2022;09/09/2022;"CARTE 08/09/22 Tuul Mobility SIA CB*8898";"Non catégorisé";"Non catégorisé";"Tuul Mobility SIA";-1,26;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/09/2022;09/09/2022;"CARTE 08/09/22 Kafijas Pasaule   CB*8898";Alimentation;"Vie quotidienne";"kafijas pasaule";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+09/09/2022;09/09/2022;"CARTE 08/09/22 Coffee Address    CB*8898";"Restaurants, bars, discothèques…";Loisirs;"coffee address";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/09/2022;08/09/2022;"CARTE 06/09/22 SIA AMBER DISTRIB CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";sia;-25,48;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/09/2022;08/09/2022;"CARTE 07/09/22 KAC-Brivibas 49/5 CB*8898";"Non catégorisé";"Non catégorisé";"KAC-Brivibas 49/53";-16,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/09/2022;08/09/2022;"CARTE 07/09/22 ridemobility.eu   CB*8898";"Non catégorisé";"Non catégorisé";ridemobility.eu;-10,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+08/09/2022;08/09/2022;"CARTE 07/09/22 BOLT.EU/R/2209071 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-0,88;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/09/2022;07/09/2022;"CARTE 06/09/22 RIMI MATISA IELA  CB*8898";Alimentation;"Vie quotidienne";"rimi matisa iela";-7,95;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/09/2022;07/09/2022;"CARTE 06/09/22 BOLT.EU/R/2209060 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,21;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/09/2022;07/09/2022;"CARTE 06/09/22 BOLT.EU/R/2209061 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,73;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/09/2022;07/09/2022;"CARTE 06/09/22 BOLT.EU/R/2209061 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+07/09/2022;07/09/2022;"CARTE 06/09/22 Kafijas Pasaule   CB*8898";Alimentation;"Vie quotidienne";"kafijas pasaule";-1,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/09/2022;06/09/2022;"CARTE 05/09/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-8,31;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/09/2022;06/09/2022;"CARTE 05/09/22 BEERHOUSE N1-KALK CB*8898";"Non catégorisé";"Non catégorisé";"BEERHOUSE N1-KALKU";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/09/2022;06/09/2022;"CARTE 05/09/22 BEERHOUSE N1-KALK CB*8898";"Non catégorisé";"Non catégorisé";"BEERHOUSE N1-KALKU";-3,70;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/09/2022;06/09/2022;"CARTE 05/09/22 BEERHOUSE N1-KALK CB*8898";"Non catégorisé";"Non catégorisé";"BEERHOUSE N1-KALKU";-9,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/09/2022;06/09/2022;"CARTE 05/09/22 BOLT.EU/R/2209051 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-0,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/09/2022;06/09/2022;"CARTE 05/09/22 BOLT.EU/R/2209051 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,91;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+06/09/2022;06/09/2022;"CARTE 05/09/22 BOLT.EU/R/2209051 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,07;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 04/09/22 HUMANA, KR. BARON CB*8898";"Restaurants, bars, discothèques…";Loisirs;"humana kr barona";-4,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 04/09/22 LIDO ""Vermanitis"" CB*8898";"Non catégorisé";"Non catégorisé";"LIDO ""Vermanitis""";-14,45;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 03/09/22 SIA AMBER DISTRIB CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";sia;-9,99;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 04/09/22 BOLT.EU/R/2209041 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,27;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 03/09/22 RIMI SHM ORIGO (R CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rimi shm origo riga";-24,64;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 03/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-15,15;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 03/09/22 AS FENIKSS-1.VEIK CB*8898";"Non catégorisé";"Non catégorisé";"AS FENIKSS-1.VEIKALS";-1,20;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 02/09/22 RADISSON LATVIJA  CB*8898";"Hébergement (hôtels, camping…)";"Voyages & Transports";radisson;-24,53;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 03/09/22 RIGAS PAS.STACIJA CB*8898";"Médecins et frais médicaux";Santé;"rigas pas stacija 7 biles";-27,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 03/09/22 BOLT.EU/R/2209030 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,22;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 02/09/22 RIMI SM BERNU PAS CB*8898";Alimentation;"Vie quotidienne";"rimi sm bernu pasaule";-8,39;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 01/09/22 RIGAS SKANU FABRI CB*8898";"Restaurants, bars, discothèques…";Loisirs;"rigas skanu fabrika bars";-25,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 01/09/22 VALHALLA          CB*8898";"Livres, CD/DVD, bijoux, jouets…";"Vie quotidienne";valhalla;-6,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 02/09/22 F1 SPORTA KLUBS   CB*8898";"Hébergement (hôtels, camping…)";"Voyages & Transports";"f1 sporta klubs";-28,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 02/09/22 N02244 Meness apt CB*8898";"Non catégorisé";"Non catégorisé";"N02244 Meness aptieka 75";-15,83;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 02/09/22 BOLT.EU/R/2209022 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,21;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+05/09/2022;05/09/2022;"CARTE 02/09/22 BOLT.EU/R/2209021 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-1,80;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/09/2022;02/09/2022;"CARTE 01/09/22 RIMI MATISA IELA  CB*8898";Alimentation;"Vie quotidienne";"rimi matisa iela";-16,68;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/09/2022;02/09/2022;"CARTE 01/09/22 IKEA LATVIA       CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";ikea;-119,86;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/09/2022;02/09/2022;"CARTE 01/09/22 IKEA LATVIA RESTO CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";ikea;-1,98;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/09/2022;02/09/2022;"CARTE 31/08/22 RIMI MATISA IELA  CB*8898";Alimentation;"Vie quotidienne";"rimi matisa iela";-38,94;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+02/09/2022;02/09/2022;"CARTE 31/08/22 SIA AMBER DISTRIB CB*8898";"Mobilier, électroménager, décoration…";"Vie quotidienne";sia;-3,24;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+01/09/2022;01/09/2022;"RETRAIT DAB 31/08/22 Matisa iela CB*8898";"Retraits cash";"Retraits cash";"Retrait cash";-210,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+01/09/2022;01/09/2022;"CARTE 31/08/22 BOLT.EU/R/2208311 CB*8898";"Vie Quotidienne - Autres";"Vie quotidienne";"bolt eu r";-6,86;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/08/2022;30/08/2022;"CARTE 27/08/22 CITY LOUVECIENNE2 CB*8898";Alimentation;"Vie quotidienne";"DELICES OPERA";-7,52;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/08/2022;30/08/2022;"CARTE 26/08/22 MAXIMO            CB*8898";Alimentation;"Vie quotidienne";maximo;-12,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/08/2022;30/08/2022;"CARTE 26/08/22 BOBOQ             CB*8898";"Non catégorisé";"Non catégorisé";BOBOQ;-11,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+30/08/2022;30/08/2022;"CARTE 29/08/22 BP ST CLOUD     2 CB*8898";Carburant;"Auto & Moto";bp;-46,22;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/08/2022;26/08/2022;"CARTE 24/08/22 INTERNATIONAL STU CB*8898";"Restaurants, bars, discothèques…";Loisirs;"international student";-48,34;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/08/2022;26/08/2022;"CARTE 25/08/22 TICKET WEEZEVENT  CB*8898";"Divertissement - culture (ciné, théâtre, concerts…)";Loisirs;"ticket weezevent";-20,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/08/2022;26/08/2022;"CARTE 25/08/22 FIVORY 2741       CB*8898";"Abonnements & téléphonie";"Abonnements & téléphonie";fivory;-5,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+26/08/2022;26/08/2022;"CARTE 25/08/22 TICKET WEEZEVENT  CB*8898";"Divertissement - culture (ciné, théâtre, concerts…)";Loisirs;"ticket weezevent";-12,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/08/2022;24/08/2022;"CARTE 22/08/22 MAC DONALD S    2 CB*8898";"Restaurants, bars, discothèques…";Loisirs;"mc donald's";-10,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/08/2022;24/08/2022;"CARTE 23/08/22 DECATHLON 0289    CB*8898";"Equipements sportifs et artistiques";"Vie quotidienne";decathlon;-20,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/08/2022;24/08/2022;"CARTE 22/08/22 SOGIBERGERE       CB*8898";Alimentation;"Vie quotidienne";franprix;-3,60;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/08/2022;24/08/2022;"CARTE 23/08/22 BIG FERNAND       CB*8898";"Restaurants, bars, discothèques…";Loisirs;"big fernand";-17,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+24/08/2022;24/08/2022;"CARTE 23/08/22 MGP*Vinted 388904 CB*8898";"Vêtements et accessoires";"Vie quotidienne";vinted.fr;-93,49;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/08/2022;23/08/2022;"CARTE 22/08/22 BARIOCA           CB*8898";"Non catégorisé";"Non catégorisé";BARIOCA;-8,50;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+23/08/2022;23/08/2022;"CARTE 21/08/22 BOISVERS          CB*8898";"Non catégorisé";"Non catégorisé";BOISVERS;-7,30;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+22/08/2022;22/08/2022;"CARTE 20/08/22 TOTAL           4 CB*8898";Carburant;"Auto & Moto";total;-44,47;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+17/08/2022;17/08/2022;"CARTE 16/08/22 SPAR CB*8898";Alimentation;"Vie quotidienne";spar;-3,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
+12/08/2022;12/08/2022;"VIR INST HENRI SERANO";"Virements émis";"Virements émis";"henri serano";-70,00;00040054657;"BOURSORAMA BANQUE";"2 820,87";;Non
