@@ -1,0 +1,84 @@
+{% load plotly_dash %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% plotly_header %}
+    <title>Dataframe Echantillon et Graphiques</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+    <!-- AOS (Animate On Scroll) library -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.js"></script>
+
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 1rem;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #1a73e8;
+            text-align: center;
+            animation: fadeIn 2s;
+        }
+        h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #1a73e8;
+            text-align: center;
+            animation: fadeIn 3s;
+        }
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 1rem 4;
+        }
+        img {
+            width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 data-aos="fade-up">Dataframe Echantillon</h1>
+        <div class="image-container" data-aos="zoom-in">
+            <img src="https://img-4.linternaute.com/SsBlmn5Xg0K2j0Zhf8O99-WsxNM=/fit-in/630x/smart/6ca8d8816d674f16ba68a39924641fef/ccmcms-linternaute/2377662.jpg" alt="Random Image from Unsplash">
+            <img src="https://img-4.linternaute.com/SsBlmn5Xg0K2j0Zhf8O99-WsxNM=/fit-in/630x/smart/6ca8d8816d674f16ba68a39924641fef/ccmcms-linternaute/2377662.jpg" alt="Random Image from Unsplash">
+        </div>
+        <p>Sélectionnez une année:</p>
+        <a href="http://127.0.0.1:8000/page4/" class="btn btn-primary">2019</a>
+        <a href="http://127.0.0.1:8000/page3/" class="btn btn-primary">2020</a>
+    <a href="http://127.0.0.1:8000/page2/" class="btn btn-primary">2021</a>
+    <a href="http://127.0.0.1:8000/" class="btn btn-primary">2022</a>
+        <h2 data-aos="fade-up">Graphiques</h2>
+        
+        
+        {% plotly_direct name="app" %}
+    </div>
+
+    {% plotly_footer %}
+
+    <script>
+        
+        AOS.init();
+    </script>
+</body>
+</html>
